@@ -1,6 +1,6 @@
 
 
-class Artist
+class Post
 
   attr_accessor :name
 
